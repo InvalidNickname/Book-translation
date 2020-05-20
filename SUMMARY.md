@@ -13,4 +13,7 @@
 * [Компоненты ПО \(ROS, Python и Linux\)](komponenty-po-ros-python-i-linux.md)
 * [Системы управления роботами и фреймворк для принятия решений](sistemy-upravleniya-robotami-i-freimvork-dlya-prinyatiya-reshenii.md)
 * [Система управления роботом - управляющий цикл с мягким реальным временем](sistema-upravleniya-robotom-upravlyayushii-cikl-s-myagkim-realnym-vremenem.md)
+* [Итоги главы](itogi-glavy.md)
+* [Вопросы](voprosy.md)
+* [Что почитать в будущем](chto-pochitat-v-budushem.md)
 
