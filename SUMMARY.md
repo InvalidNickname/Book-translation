@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Оглавление](README.md)
+* [Титульник](README.md)
 * [Введение](osnovy-prodvinutoi-robototekhniki-i-ii.md)
 * [Технические требования](tekhnicheskie-trebovaniya.md)
 * [Базовые принципы робототехники и ИИ](bazovye-principy-robototekhniki-i-ii.md)
