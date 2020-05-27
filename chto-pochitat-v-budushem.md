@@ -1,4 +1,4 @@
-# Что почитать в будущем
+# 1.6 Что почитать в будущем
 
 * Coram, R. \(2004\). _Boyd: The Fighter Pilot Who Changed the Art of War_. New York, NY: Back Bay Books/Little, Brown. \(История цикла НОРД\)
 * Fernández, E., Crespo, L. S., Mahtani, A., and Martinez, A. \(2015\). _Learning ROS for Robotics Programming: Your One-Stop Guide to the Robot Operating System_. Birmingham, UK: Packt Publishing
